@@ -58,6 +58,15 @@ https://github.com/LoneCoder21/LuckySeed
 
 For category: N/A    
 
+## Seed Cycle    
+Standardizing seed based RNG, making it the exact same no matter what seeds you're getting.
+Check out the above one instead of the bottom one.    
+
+https://github.com/DuncanRuns/Seed-Cycle-Mod    
+https://github.com/DuncanRuns/Seed-Based-RNG-Fabric    
+
+For category: N/A    
+
 ## BeachFilter    
 
   
