@@ -12,6 +12,27 @@ https://github.com/DuncanRuns/FSG-Mod
 
 For category: [FSG](https://www.speedrun.com/fsg), [DMCE](https://www.speedrun.com/mc_dmce), [PogLoot](https://www.speedrun.com/mc_pogloot)    
 
+## PogWorld    
+Modifies structures and their generating rates to be the absolutely greatest.    
+
+https://github.com/faluhub/pogworld    
+
+For category: [PogWorld](https://www.speedrun.com/mc_pogworld)    
+
+## PogLoot    
+Modifies RNG, including chest loots, mob generations, dragon perches, and more.
+
+https://github.com/AbyssStudios/PogLoot    
+
+For category: [PogLoot](https://www.speedrun.com/mc_pogloot), [PogLoot CE](https://www.speedrun.com/pogloot_ce), [PogWorld](https://www.speedrun.com/mc_pogworld)   
+
+## Tyche    
+Modifies RNG (what direction item drops, reduces mob generating, etc.) for SSG.
+
+https://github.com/VoidXWalker/tyche    
+
+For category: [JUICE](https://www.speedrun.com/mc_juice)    
+
 ## AreEssGee    
 Filters seeds and modifies RNG, and it's highly customizable through SpeedrunAPI.    
 
@@ -19,12 +40,14 @@ https://github.com/faluhub/AreEssGee
 
 For category: [ARSG](https://docs.google.com/spreadsheets/d/1n5Z3qsWbQX_uImx-HvzGacRpa6FjT5USRBnDKcsQbQ0)    
 
-## PogWorld    
-Modifies structures and their generating rates to be the absolutely greatest.    
+## RNG Stabilizer    
+Modifies RNG specifically for mobs.    
+The above link is based on the below one, and it's newer, and likely better.    
 
-https://github.com/faluhub/pogworld    
+https://github.com/VoidXWalker/rng-stabilizer    
+https://github.com/VoidXWalker/SetSpeed-NoRNG    
 
-For category: [PogWorld](https://www.speedrun.com/mc_pogworld)    
+For category: N/A    
 
 ## LuckySeed    
 Customizable RNG and world/structure generating.    
@@ -38,30 +61,7 @@ Please consider using FSG Mod instead of this since BeachFilter was already incl
 
 https://github.com/DuncanRuns/BeachFilter-Mod    
 
-For category: N/A    
-
-## PogLoot    
-Modifies RNG, including chest loots, mob generations, dragon perches, and more.
-
-https://github.com/AbyssStudios/PogLoot    
-
-For category: [PogLoot](https://www.speedrun.com/mc_pogloot), [PogLoot CE](https://www.speedrun.com/pogloot_ce), [PogWorld](https://www.speedrun.com/mc_pogworld)    
-
-## Tyche    
-Modifies RNG (what direction item drops, reduces mob generating, etc.) for SSG.
-
-https://github.com/VoidXWalker/tyche    
-
-For category: [JUICE](https://www.speedrun.com/mc_juice)    
-
-## RNG Stabilizer    
-Modifies RNG specifically for mobs.    
-The above link is based on the below one, and it's newer, and likely better.    
-
-https://github.com/VoidXWalker/rng-stabilizer    
-https://github.com/VoidXWalker/SetSpeed-NoRNG    
-
-For category: N/A    
+For category: N/A     
 
 # Miscellaneous    
 
