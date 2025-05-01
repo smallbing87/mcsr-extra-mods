@@ -7,8 +7,10 @@ Instead of using them for cheating, usually they're used for practice or for cat
 
 ## FSG Mod    
 Filters seeds. Contains multiple filers, including SeedBank, BeachFilter, and ZSG.    
+The bottom one is included in the above one, so consider using the above one.
 
 https://github.com/DuncanRuns/FSG-Mod   
+https://github.com/DuncanRuns/BeachFilter-Mod    
 
 For category: [FSG](https://www.speedrun.com/fsg), [DMCE](https://www.speedrun.com/mc_dmce), [PogLoot](https://www.speedrun.com/mc_pogloot)    
 
@@ -42,7 +44,7 @@ For category: [ARSG](https://docs.google.com/spreadsheets/d/1n5Z3qsWbQX_uImx-Hvz
 
 ## RNG Stabilizer    
 Modifies RNG specifically for mobs.    
-The above link is based on the below one, and it's newer, and likely better.    
+The above link is based on the bottom one, and it's newer, and likely better.    
 
 https://github.com/VoidXWalker/rng-stabilizer    
 https://github.com/VoidXWalker/SetSpeed-NoRNG    
@@ -57,9 +59,8 @@ https://github.com/LoneCoder21/LuckySeed
 For category: N/A    
 
 ## BeachFilter    
-Please consider using FSG Mod instead of this since BeachFilter was already included in it.    
 
-https://github.com/DuncanRuns/BeachFilter-Mod    
+  
 
 For category: N/A     
 
@@ -74,7 +75,7 @@ For category: [DMCE](https://www.speedrun.com/mc_dmce), [PogLoot](https://www.sp
 
 ## InfiniPearl    
 Let you spawn with an ender pearl that can be used for infinite amounts of times.    
-The above link is newer than the below one, and is more likely to be accepted when submitting runs.    
+The above link is newer than the bottom one, and is more likely to be accepted when submitting runs.    
 
 https://github.com/DuncanRuns/InfiniPearl    
 https://github.com/VoidXWalker/infinipearl    
