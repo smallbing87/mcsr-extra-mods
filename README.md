@@ -1,7 +1,7 @@
 # MCSR-Extra-Mods
 Mods that make it different than regular speedrunning   
 
-Isstead of using them for cheating, usually they're used for practice or for categories that are not regular MCSR.   
+Instead of using them for cheating, usually they're used for practice or for categories that are not regular MCSR.   
 
 # World Generation / RNG Modify    
 
