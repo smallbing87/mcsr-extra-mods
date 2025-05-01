@@ -14,19 +14,19 @@ https://github.com/DuncanRuns/BeachFilter-Mod
 
 For category: [FSG](https://www.speedrun.com/fsg), [DMCE](https://www.speedrun.com/mc_dmce), [PogLoot](https://www.speedrun.com/mc_pogloot)    
 
-## PogWorld    
-Modifies structures and their generating rates to be the absolutely greatest.    
-
-https://github.com/faluhub/pogworld    
-
-For category: [PogWorld](https://www.speedrun.com/mc_pogworld)    
-
 ## PogLoot    
 Modifies RNG, including chest loots, mob generations, dragon perches, and more.
 
 https://github.com/AbyssStudios/PogLoot    
 
 For category: [PogLoot](https://www.speedrun.com/mc_pogloot), [PogLoot CE](https://www.speedrun.com/pogloot_ce), [PogWorld](https://www.speedrun.com/mc_pogworld)   
+
+## PogWorld    
+Modifies structures and their generating rates to be the absolutely greatest.    
+
+https://github.com/faluhub/pogworld    
+
+For category: [PogWorld](https://www.speedrun.com/mc_pogworld)    
 
 ## Tyche    
 Modifies RNG (what direction item drops, reduces mob generating, etc.) for SSG.
