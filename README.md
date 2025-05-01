@@ -58,6 +58,14 @@ https://github.com/LoneCoder21/LuckySeed
 
 For category: N/A    
 
+## Practice Seed Mod    
+Makes you play seeds that are recommended by trusted speedrunners.    
+Join their [Discord](https://discord.gg/pV2kYMjDDV) in order to use the mod.    
+
+https://github.com/faluhub/practice-seed-mod    
+
+For category: N/A    
+
 ## Seed Cycle    
 Standardizing seed based RNG, making it the exact same no matter what seeds you're getting.
 Check out the above one instead of the bottom one.    
