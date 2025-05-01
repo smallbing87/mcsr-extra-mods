@@ -65,12 +65,6 @@ Check out the above one instead of the bottom one.
 https://github.com/DuncanRuns/Seed-Cycle-Mod    
 https://github.com/DuncanRuns/Seed-Based-RNG-Fabric    
 
-For category: N/A    
-
-## BeachFilter    
-
-  
-
 For category: N/A     
 
 # Miscellaneous    
