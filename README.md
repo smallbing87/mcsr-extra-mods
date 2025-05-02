@@ -6,7 +6,7 @@ Instead of using them for cheating, usually they're used for practice or for cat
 # World Generation / RNG Modify    
 
 ## FSG Mod    
-Filters seeds. Contains multiple filers, including SeedBank, BeachFilter, and ZSG.    
+Filters seeds. Contains multiple filers, including Seedbank, BeachFilter, and ZSG.    
 The bottom one is included in the above one, so consider using the above one.
 
 https://github.com/DuncanRuns/FSG-Mod   
