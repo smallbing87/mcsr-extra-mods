@@ -67,7 +67,7 @@ https://github.com/faluhub/practice-seed-mod
 For category: N/A    
 
 ## Seed Cycle    
-Standardizing seed based RNG, making it the exact same no matter what seeds you're getting.
+Standardizing seed based RNG, making it the exact same no matter what seeds you're getting.    
 Check out the above one instead of the bottom one.    
 
 https://github.com/DuncanRuns/Seed-Cycle-Mod    
