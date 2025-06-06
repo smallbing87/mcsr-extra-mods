@@ -14,6 +14,14 @@ https://github.com/DuncanRuns/BeachFilter-Mod
 
 For category: [FSG](https://www.speedrun.com/fsg), [DMCE](https://www.speedrun.com/mc_dmce), [PogLoot](https://www.speedrun.com/mc_pogloot)    
 
+## MCSR Ranked    
+Includes a private seed filter and highly customizable options.    
+You can host private room with 2 accounts, or buy tiers to play in singleplayer, but not verifiable.    
+
+https://modrinth.com/mod/mcsr-ranked/versions    
+
+For category: [MCSR Ranked](https://mcsrranked.com/stats/lb)    
+
 ## PogLoot    
 Modifies RNG, including chest loots, mob generations, dragon perches, and more.
 
@@ -76,6 +84,13 @@ https://github.com/DuncanRuns/Seed-Based-RNG-Fabric
 For category: N/A     
 
 # Miscellaneous    
+
+## PeepoPractice    
+One of the best mods to practice paces.    
+
+https://github.com/faluhub/peepoPractice    
+
+For category: N/A    
 
 ## Icarus    
 Let you spawn with an equipped elytra, and a stack of fireworks.    
